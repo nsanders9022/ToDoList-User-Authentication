@@ -21,10 +21,12 @@ namespace BasicAuthentication.Controllers
         {
             _db = db;
         }
+
         // GET: /<controller>/
         public IActionResult Index()
         {
-            return View();
+            var roles = _db.Roles.ToList();
+            return View(roles);
         }
         public ActionResult Create()
         {
