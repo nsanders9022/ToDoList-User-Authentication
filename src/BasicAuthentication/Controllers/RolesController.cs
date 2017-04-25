@@ -48,5 +48,20 @@ namespace BasicAuthentication.Controllers
                 return View();
             }
         }
+
+        public IActionResult Delete(string id)
+        {
+            var thisRole = _db.Roles.FirstOrDefault(roles => roles.Id == id);
+            return View(thisRole);
+        }
+
+        //[HttpPost, ActionName("Delete")]
+        //public IActionResult DeleteConfirmed(int id)
+        //{
+        //    var thisProduct = db.Products.FirstOrDefault(products => products.ProductId == id);
+        //    db.Products.Remove(thisProduct);
+        //    db.SaveChanges();
+        //    return RedirectToAction("Index");
+        //}
     }
 }
