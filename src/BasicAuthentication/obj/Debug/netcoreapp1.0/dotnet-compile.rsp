@@ -203,11 +203,16 @@
 C:\Users\epicodus\Desktop\BasicAuthentication\src\BasicAuthentication\Program.cs
 C:\Users\epicodus\Desktop\BasicAuthentication\src\BasicAuthentication\Startup.cs
 C:\Users\epicodus\Desktop\BasicAuthentication\src\BasicAuthentication\Controllers\AccountController.cs
+C:\Users\epicodus\Desktop\BasicAuthentication\src\BasicAuthentication\Controllers\RolesController.cs
 C:\Users\epicodus\Desktop\BasicAuthentication\src\BasicAuthentication\Controllers\ToDoController.cs
 C:\Users\epicodus\Desktop\BasicAuthentication\src\BasicAuthentication\Migrations\20170425162445_Initial.cs
 C:\Users\epicodus\Desktop\BasicAuthentication\src\BasicAuthentication\Migrations\20170425162445_Initial.Designer.cs
 C:\Users\epicodus\Desktop\BasicAuthentication\src\BasicAuthentication\Migrations\20170425165603_AddItemTable.cs
 C:\Users\epicodus\Desktop\BasicAuthentication\src\BasicAuthentication\Migrations\20170425165603_AddItemTable.Designer.cs
+C:\Users\epicodus\Desktop\BasicAuthentication\src\BasicAuthentication\Migrations\20170425231023_Roles.cs
+C:\Users\epicodus\Desktop\BasicAuthentication\src\BasicAuthentication\Migrations\20170425231023_Roles.Designer.cs
+C:\Users\epicodus\Desktop\BasicAuthentication\src\BasicAuthentication\Migrations\20170425231520_ConstructorToRoles.cs
+C:\Users\epicodus\Desktop\BasicAuthentication\src\BasicAuthentication\Migrations\20170425231520_ConstructorToRoles.Designer.cs
 C:\Users\epicodus\Desktop\BasicAuthentication\src\BasicAuthentication\Migrations\ApplicationDbContextModelSnapshot.cs
 C:\Users\epicodus\Desktop\BasicAuthentication\src\BasicAuthentication\Models\ApplicationDbContext.cs
 C:\Users\epicodus\Desktop\BasicAuthentication\src\BasicAuthentication\Models\ApplicationUser.cs
